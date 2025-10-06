@@ -1,2 +1,2 @@
-# ChrisFuglsang.io
+# ChrisFuglsang.github.io
 Prog B
